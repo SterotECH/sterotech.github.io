@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@sanity/client": "^3.4.1",
+    "@sanity/image-url": "^1.0.1",
+    "framer-motion": "^7.10.2",
+    "node-sass": "^8.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -32,6 +37,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "jsdom": "^20.0.3",
     "postcss": "^8.4.20",
+    "sass": "^1.57.0",
     "tailwindcss": "^3.2.4",
     "typescript": "^4.9.3",
     "vite": "^4.0.0",
