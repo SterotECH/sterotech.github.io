@@ -13,6 +13,8 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
   ],
 
+  buildDir: './dist',
+
   pinia: {
     storesDirs: ['./stores/**'],
   },

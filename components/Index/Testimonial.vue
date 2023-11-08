@@ -8,11 +8,11 @@
         </p>
         <h2 class="text-3xl">What my students say</h2>
       </header>
-      <div class="flex flex-col md:flex-row items-center justify-center gap-2">
+      <!-- <div class="flex flex-col md:flex-row items-center justify-center gap-2">
         <div class="flex items-center justify-center">
           <span class="font-bold mx-1 text-lg"></span
           ><span class="mx-2 flex items-center"
-            ><img
+            ><NuxtImg
               alt="Stars"
               data-testid="trust-stars"
               fetchpriority="high"
@@ -21,7 +21,7 @@
               decoding="async"
               data-nimg="1"
               class="inline"
-              src="/_next/static/media/4.5.fbc139f3.svg"
+              src=""
               style="color: transparent"
           /></span>
         </div>
@@ -29,7 +29,7 @@
           <span class="font-bold mr-1">4.7</span>out of 5 based on
           <a
             target="_blank"
-            href="https://www.trustpilot.com/review/codewithmosh.com"
+            href="#"
             ><span class="font-bold">2652</span> reviews</a
           >
         </div>
@@ -60,7 +60,7 @@
                   </blockquote>
                   <div class="h-1 bg-violet-75 w-16 my-6"></div>
                   <figcaption class="flex items-center gap-x-4">
-                    <img
+                    <NuxtImg
                       alt="Federico Figueredo"
                       loading="lazy"
                       width="40"
@@ -68,11 +68,8 @@
                       decoding="async"
                       data-nimg="1"
                       class="h-10 w-10 rounded-full bg-gray-50"
-                      srcset="
-                        /_next/image?url=%2Fimages%2Ftestimonials%2Ffederico.png&amp;w=48&amp;q=75 1x,
-                        /_next/image?url=%2Fimages%2Ftestimonials%2Ffederico.png&amp;w=96&amp;q=75 2x
-                      "
-                      src="/_next/image?url=%2Fimages%2Ftestimonials%2Ffederico.png&amp;w=96&amp;q=75"
+                      srcset=""
+                      src=""
                       style="color: transparent"
                     />
                     <div>
@@ -90,7 +87,7 @@
                         decoding="async"
                         data-nimg="1"
                         class="inline"
-                        src="/_next/static/media/5.ea72dfc5.svg"
+                        src=""
                         style="color: transparent"
                       />
                     </div>
@@ -117,7 +114,7 @@
                   </blockquote>
                   <div class="h-1 bg-violet-75 w-16 my-6"></div>
                   <figcaption class="flex items-center gap-x-4">
-                    <img
+                    <NuxtImg
                       alt="Jake"
                       loading="lazy"
                       width="40"
@@ -126,10 +123,9 @@
                       data-nimg="1"
                       class="h-10 w-10 rounded-full bg-gray-50"
                       srcset="
-                        /_next/image?url=%2Fimages%2Ftestimonials%2F0hUn18Io_400x400.jpeg&amp;w=48&amp;q=75 1x,
-                        /_next/image?url=%2Fimages%2Ftestimonials%2F0hUn18Io_400x400.jpeg&amp;w=96&amp;q=75 2x
+
                       "
-                      src="/_next/image?url=%2Fimages%2Ftestimonials%2F0hUn18Io_400x400.jpeg&amp;w=96&amp;q=75"
+                      src=""
                       style="color: transparent"
                     />
                     <div>
@@ -138,7 +134,7 @@
                       >
                         Jake
                       </div>
-                      <img
+                      <NuxtImg
                         alt="Stars"
                         data-testid="trust-stars"
                         fetchpriority="high"
@@ -147,7 +143,7 @@
                         decoding="async"
                         data-nimg="1"
                         class="inline"
-                        src="/_next/static/media/5.ea72dfc5.svg"
+                        src=""
                         style="color: transparent"
                       />
                     </div>
@@ -174,7 +170,7 @@
                   </blockquote>
                   <div class="h-1 bg-violet-75 w-16 my-6"></div>
                   <figcaption class="flex items-center gap-x-4">
-                    <img
+                    <NuxtImg
                       alt="Barialai Nawabi"
                       loading="lazy"
                       width="40"
@@ -182,11 +178,8 @@
                       decoding="async"
                       data-nimg="1"
                       class="h-10 w-10 rounded-full bg-gray-50"
-                      srcset="
-                        /_next/image?url=%2Fimages%2Ftestimonials%2FEHsSrXD1_400x400.jpeg&amp;w=48&amp;q=75 1x,
-                        /_next/image?url=%2Fimages%2Ftestimonials%2FEHsSrXD1_400x400.jpeg&amp;w=96&amp;q=75 2x
-                      "
-                      src="/_next/image?url=%2Fimages%2Ftestimonials%2FEHsSrXD1_400x400.jpeg&amp;w=96&amp;q=75"
+                      srcset=""
+                      src=""
                       style="color: transparent"
                     />
                     <div>
@@ -195,7 +188,7 @@
                       >
                         Barialai Nawabi
                       </div>
-                      <img
+                      <NuxtImg
                         alt="Stars"
                         data-testid="trust-stars"
                         fetchpriority="high"
@@ -204,7 +197,7 @@
                         decoding="async"
                         data-nimg="1"
                         class="inline"
-                        src="/_next/static/media/5.ea72dfc5.svg"
+                        src=""
                         style="color: transparent"
                       />
                     </div>
@@ -230,7 +223,7 @@
                   </blockquote>
                   <div class="h-1 bg-violet-75 w-16 my-6"></div>
                   <figcaption class="flex items-center gap-x-4">
-                    <img
+                    <NuxtImg
                       alt="Shawna Staff"
                       loading="lazy"
                       width="40"
@@ -239,10 +232,8 @@
                       data-nimg="1"
                       class="h-10 w-10 rounded-full bg-gray-50"
                       srcset="
-                        /_next/image?url=%2Fimages%2Ftestimonials%2FSRTAHLdU_400x400.jpeg&amp;w=48&amp;q=75 1x,
-                        /_next/image?url=%2Fimages%2Ftestimonials%2FSRTAHLdU_400x400.jpeg&amp;w=96&amp;q=75 2x
                       "
-                      src="/_next/image?url=%2Fimages%2Ftestimonials%2FSRTAHLdU_400x400.jpeg&amp;w=96&amp;q=75"
+                      src=""
                       style="color: transparent"
                     />
                     <div>
@@ -251,7 +242,7 @@
                       >
                         Shawna Staff
                       </div>
-                      <img
+                      <NuxtImg
                         alt="Stars"
                         data-testid="trust-stars"
                         fetchpriority="high"
@@ -260,7 +251,7 @@
                         decoding="async"
                         data-nimg="1"
                         class="inline"
-                        src="/_next/static/media/5.ea72dfc5.svg"
+                        src=""
                         style="color: transparent"
                       />
                     </div>
@@ -287,7 +278,7 @@
                   </blockquote>
                   <div class="h-1 bg-violet-75 w-16 my-6"></div>
                   <figcaption class="flex items-center gap-x-4">
-                    <img
+                    <NuxtImg
                       alt="Desmond"
                       loading="lazy"
                       width="40"
@@ -295,11 +286,8 @@
                       decoding="async"
                       data-nimg="1"
                       class="h-10 w-10 rounded-full bg-gray-50"
-                      srcset="
-                        /_next/image?url=%2Fimages%2Ftestimonials%2FioGi39PO_400x400.jpeg&amp;w=48&amp;q=75 1x,
-                        /_next/image?url=%2Fimages%2Ftestimonials%2FioGi39PO_400x400.jpeg&amp;w=96&amp;q=75 2x
-                      "
-                      src="/_next/image?url=%2Fimages%2Ftestimonials%2FioGi39PO_400x400.jpeg&amp;w=96&amp;q=75"
+                      srcset=""
+                      src=""
                       style="color: transparent"
                     />
                     <div>
@@ -317,7 +305,7 @@
                         decoding="async"
                         data-nimg="1"
                         class="inline"
-                        src="/_next/static/media/5.ea72dfc5.svg"
+                        src=""
                         style="color: transparent"
                       />
                     </div>
@@ -355,10 +343,8 @@
                       data-nimg="1"
                       class="h-10 w-10 rounded-full bg-gray-50"
                       srcset="
-                        /_next/image?url=%2Fimages%2Ftestimonials%2FdUc_wTFD_400x400.jpeg&amp;w=48&amp;q=75 1x,
-                        /_next/image?url=%2Fimages%2Ftestimonials%2FdUc_wTFD_400x400.jpeg&amp;w=96&amp;q=75 2x
                       "
-                      src="/_next/image?url=%2Fimages%2Ftestimonials%2FdUc_wTFD_400x400.jpeg&amp;w=96&amp;q=75"
+                      src=""
                       style="color: transparent"
                     />
                     <div>
@@ -367,7 +353,7 @@
                       >
                         Isaac
                       </div>
-                      <img
+                      <NuxtImg
                         alt="Stars"
                         data-testid="trust-stars"
                         fetchpriority="high"
@@ -376,7 +362,7 @@
                         decoding="async"
                         data-nimg="1"
                         class="inline"
-                        src="/_next/static/media/5.ea72dfc5.svg"
+                        src=""
                         style="color: transparent"
                       />
                     </div>
@@ -447,6 +433,6 @@
             type="button"
           ></button>
         </div>
-      </div>
+      </div> -->
     </section>
 </template>

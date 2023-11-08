@@ -113,11 +113,7 @@ const cards = [
                 decoding="async"
                 data-nimg="1"
                 class="w-5/6 md:w-full lg:pt-4 xl:w-5/6"
-                srcset="
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-01%402x.dbff860c.png&amp;w=1200&amp;q=75 1x,
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-01%402x.dbff860c.png&amp;w=3840&amp;q=75 2x
-                "
-                src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-01%402x.dbff860c.png&amp;w=3840&amp;q=75"
+              src=""
                 style="color: transparent"
               />
             </div>
@@ -164,11 +160,7 @@ const cards = [
                 decoding="async"
                 data-nimg="1"
                 class="w-5/6 md:w-full md:pt-20 xl:w-4/5"
-                srcset="
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-02%402x.5cf5e26a.png&amp;w=1080&amp;q=75 1x,
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-02%402x.5cf5e26a.png&amp;w=1920&amp;q=75 2x
-                "
-                src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-02%402x.5cf5e26a.png&amp;w=1920&amp;q=75"
+                src=""
                 style="color: transparent"
               />
             </div>
@@ -215,11 +207,7 @@ const cards = [
                 decoding="async"
                 data-nimg="1"
                 class="w-3/5 md:w-4/6 md:pt-20 lg:pt-8 xl:w-3/5"
-                srcset="
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-03%402x.0028f5d1.png&amp;w=828&amp;q=75  1x,
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-03%402x.0028f5d1.png&amp;w=1920&amp;q=75 2x
-                "
-                src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-03%402x.0028f5d1.png&amp;w=1920&amp;q=75"
+                src=""
                 style="color: transparent"
               />
             </div>
@@ -266,11 +254,7 @@ const cards = [
                 decoding="async"
                 data-nimg="1"
                 class="w-4/6 md:pt-20 lg:pt-10 xl:w-3/5"
-                srcset="
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-04%402x.a95119f3.png&amp;w=750&amp;q=75  1x,
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-04%402x.a95119f3.png&amp;w=1920&amp;q=75 2x
-                "
-                src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-04%402x.a95119f3.png&amp;w=1920&amp;q=75"
+                src=""
                 style="color: transparent"
               />
             </div>
@@ -318,11 +302,7 @@ const cards = [
                 decoding="async"
                 data-nimg="1"
                 class="md:w-full md:pt-28 lg:pt-16 xl:w-4/5"
-                srcset="
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-05%402x.c788aad2.png&amp;w=1080&amp;q=75 1x,
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-05%402x.c788aad2.png&amp;w=2048&amp;q=75 2x
-                "
-                src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-05%402x.c788aad2.png&amp;w=2048&amp;q=75"
+                src=""
                 style="color: transparent"
               />
             </div>
@@ -371,11 +351,7 @@ const cards = [
                 decoding="async"
                 data-nimg="1"
                 class="w-5/6"
-                srcset="
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-06%402x.7d4e873d.png&amp;w=1200&amp;q=75 1x,
-                  /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-06%402x.7d4e873d.png&amp;w=3840&amp;q=75 2x
-                "
-                src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature-06%402x.7d4e873d.png&amp;w=3840&amp;q=75"
+                src=""
                 style="color: transparent"
               />
             </div>

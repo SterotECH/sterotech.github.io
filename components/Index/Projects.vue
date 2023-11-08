@@ -26,32 +26,14 @@
               <a
                 class="relative w-full h-full inline-block"
                 href="/p/all-access"
-                ><img
+                ><NuxtImg
                   alt="All-Access Subscription"
                   loading="lazy"
                   decoding="async"
                   data-nimg="fill"
                   class="object-cover"
                   sizes="350px"
-                  srcset="
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=16&amp;q=75     16w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=32&amp;q=75     32w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=48&amp;q=75     48w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=64&amp;q=75     64w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=96&amp;q=75     96w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=128&amp;q=75   128w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=256&amp;q=75   256w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=384&amp;q=75   384w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=640&amp;q=75   640w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=750&amp;q=75   750w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=828&amp;q=75   828w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=1080&amp;q=75 1080w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=1200&amp;q=75 1200w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=1920&amp;q=75 1920w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=2048&amp;q=75 2048w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=3840&amp;q=75 3840w
-                  "
-                  src="/_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FA90ijraxStiEoemCcNUn&amp;w=3840&amp;q=75"
+                  src=""
                   style="
                     position: absolute;
                     height: 100%;
@@ -97,32 +79,15 @@
               <a
                 class="relative w-full h-full inline-block"
                 href="/p/ultimate-nextjs-series"
-                ><img
+                ><NuxtImg
                   alt="The Ultimate Next.js Series"
                   loading="lazy"
                   decoding="async"
                   data-nimg="fill"
                   class="object-cover"
                   sizes="350px"
-                  srcset="
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=16&amp;q=75     16w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=32&amp;q=75     32w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=48&amp;q=75     48w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=64&amp;q=75     64w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=96&amp;q=75     96w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=128&amp;q=75   128w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=256&amp;q=75   256w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=384&amp;q=75   384w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=640&amp;q=75   640w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=750&amp;q=75   750w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=828&amp;q=75   828w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=1080&amp;q=75 1080w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=1200&amp;q=75 1200w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=1920&amp;q=75 1920w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=2048&amp;q=75 2048w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=3840&amp;q=75 3840w
-                  "
-                  src="/_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&amp;w=3840&amp;q=75"
+                  srcset=""
+                  src=""
                   style="
                     position: absolute;
                     height: 100%;
@@ -168,32 +133,13 @@
               <a
                 class="relative w-full h-full inline-block"
                 href="/p/ultimate-react-part1"
-                ><img
+                ><NuxtImg
                   alt="React 18 for Beginners"
                   loading="lazy"
                   decoding="async"
                   data-nimg="fill"
                   class="object-cover"
-                  sizes="350px"
-                  srcset="
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=16&amp;q=75     16w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=32&amp;q=75     32w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=48&amp;q=75     48w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=64&amp;q=75     64w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=96&amp;q=75     96w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=128&amp;q=75   128w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=256&amp;q=75   256w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=384&amp;q=75   384w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=640&amp;q=75   640w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=750&amp;q=75   750w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=828&amp;q=75   828w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=1080&amp;q=75 1080w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=1200&amp;q=75 1200w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=1920&amp;q=75 1920w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=2048&amp;q=75 2048w,
-                    /_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=3840&amp;q=75 3840w
-                  "
-                  src="/_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FbLy3JtIoQ8y8PDs4tFem&amp;w=3840&amp;q=75"
+                  src=""
                   style="
                     position: absolute;
                     height: 100%;
@@ -239,32 +185,13 @@
               <a
                 class="relative w-full h-full inline-block"
                 href="/p/python-programming-course-beginners"
-                ><img
+                ><NuxtImg
                   alt="Complete Python Mastery"
                   loading="lazy"
                   decoding="async"
                   data-nimg="fill"
                   class="object-cover"
-                  sizes="350px"
-                  srcset="
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=16&amp;q=75     16w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=32&amp;q=75     32w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=48&amp;q=75     48w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=64&amp;q=75     64w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=96&amp;q=75     96w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=128&amp;q=75   128w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=256&amp;q=75   256w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=384&amp;q=75   384w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=640&amp;q=75   640w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=750&amp;q=75   750w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=828&amp;q=75   828w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=1080&amp;q=75 1080w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=1200&amp;q=75 1200w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=1920&amp;q=75 1920w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=2048&amp;q=75 2048w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=3840&amp;q=75 3840w
-                  "
-                  src="/_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FBFMMlbcQvml9HSqXcvNp&amp;w=3840&amp;q=75"
+                  src=""
                   style="
                     position: absolute;
                     height: 100%;
@@ -310,32 +237,13 @@
               <a
                 class="relative w-full h-full inline-block"
                 href="/p/complete-sql-mastery"
-                ><img
+                ><NuxtImg
                   alt="Complete SQL Mastery"
                   loading="lazy"
                   decoding="async"
                   data-nimg="fill"
                   class="object-cover"
-                  sizes="350px"
-                  srcset="
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=16&amp;q=75     16w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=32&amp;q=75     32w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=48&amp;q=75     48w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=64&amp;q=75     64w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=96&amp;q=75     96w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=128&amp;q=75   128w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=256&amp;q=75   256w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=384&amp;q=75   384w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=640&amp;q=75   640w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=750&amp;q=75   750w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=828&amp;q=75   828w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=1080&amp;q=75 1080w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=1200&amp;q=75 1200w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=1920&amp;q=75 1920w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=2048&amp;q=75 2048w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=3840&amp;q=75 3840w
-                  "
-                  src="/_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FRL4kFbu1SMiCIeLAtWX3&amp;w=3840&amp;q=75"
+                src=""
                   style="
                     position: absolute;
                     height: 100%;
@@ -380,32 +288,13 @@
               <a
                 class="relative w-full h-full inline-block"
                 href="/p/the-ultimate-html-css"
-                ><img
+                ><NuxtImg
                   alt="The Ultimate HTML5 &amp; CSS3 Series"
                   loading="lazy"
                   decoding="async"
                   data-nimg="fill"
                   class="object-cover"
-                  sizes="350px"
-                  srcset="
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=16&amp;q=75     16w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=32&amp;q=75     32w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=48&amp;q=75     48w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=64&amp;q=75     64w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=96&amp;q=75     96w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=128&amp;q=75   128w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=256&amp;q=75   256w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=384&amp;q=75   384w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=640&amp;q=75   640w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=750&amp;q=75   750w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=828&amp;q=75   828w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=1080&amp;q=75 1080w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=1200&amp;q=75 1200w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=1920&amp;q=75 1920w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=2048&amp;q=75 2048w,
-                    /_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=3840&amp;q=75 3840w
-                  "
-                  src="/_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FINZsH6XtRIqQqxvYGP6Q&amp;w=3840&amp;q=75"
+                src=""
                   style="
                     position: absolute;
                     height: 100%;
