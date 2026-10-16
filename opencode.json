@@ -1,0 +1,12 @@
+{
+    "mcp": {
+        "lerd": {
+            "command": [
+                "lerd",
+                "mcp"
+            ],
+            "enabled": true,
+            "type": "local"
+        }
+    }
+}
